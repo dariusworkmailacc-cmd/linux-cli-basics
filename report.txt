@@ -1,5 +1,0 @@
-## Practicing commiting
-
--made the file secure.
--reversed the security
--set a different chom permission to the file
